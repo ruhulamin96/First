@@ -1,2 +1,0 @@
-name,ruhul,age 36
-azad,name,age,55
